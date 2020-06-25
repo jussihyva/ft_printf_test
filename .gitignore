@@ -1,0 +1,8 @@
+*.a
+a.out
+*.swp
+*.o
+ft_printf.code-workspace
+*.odp#
+pft/
+*.dSYM
